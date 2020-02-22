@@ -265,9 +265,9 @@ help__graphics,
   padding: 2rem;
 }
 
-.how_it_works__highlight{
-    flex-basis: 30%;
-    margin: 0rem 2rem;
+.how_it_works__highlight {
+  flex-basis: 30%;
+  margin: 0rem 2rem;
 }
 
 .how_it_works_cta {
@@ -283,6 +283,90 @@ help__graphics,
 
 .how_it_works__highlight__text {
   color: #8e8e8e;
+}
+
+.choose-action {
+  padding: 4rem 6rem;
+
+  display: flex;
+}
+
+.choose-action > div:nth-child(1n + 1) {
+  flex-basis: 24%;
+  margin: 0rem 1rem;
+  padding: 2rem 1rem;
+  border-radius: 0.2rem;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 250px;
+}
+
+.choose-action > div:nth-child(1n+1) h5 {
+  font-size: 1.6rem;
+  font-family: "Sigmar One", cursive;
+}
+
+.choose-action > div:nth-child(1n + 1) p {
+  font-weight: 700;
+}
+
+.choose-action > div:nth-child(1) {
+  background-color: #95e7fd80;
+}
+
+.choose-action > div:nth-child(1) h5 {
+  color: #00a1ff;
+}
+
+.choose-action > div:nth-child(2) {
+  background-color: #ffb17e80;
+}
+
+.choose-action > div:nth-child(2) h5 {
+  color: #ffa500;
+}
+
+.choose-action > div:nth-child(3) {
+  background-color: #ffc3c3;
+}
+
+.choose-action > div:nth-child(3) h5 {
+  color: #ff0000;
+}
+
+.choose-action > div:nth-child(4) {
+  background-color: #20b2aa80;
+}
+
+.choose-action > div:nth-child(4) h5 {
+  color: #02615b;
+}
+
+
+.calculate_coverage__cta {
+  color: #00a1ff;
+  font-size: 1rem;
+  font-weight: 900;
+}
+
+.see-the-winner {
+  color: #ffa500;
+  font-size: 1rem;
+  font-weight: 900;
+}
+
+.tell-me-more-cta{
+  color: #ff0000;
+  font-size: 1rem;
+  font-weight: 900;
+}
+
+.become-expert-cta{
+  color: #02615b;
+  font-size: 1rem;
+  font-weight: 900;
 }
 
 /* Mobile Device */
