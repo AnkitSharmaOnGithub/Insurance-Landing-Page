@@ -349,24 +349,28 @@ help__graphics,
   color: #00a1ff;
   font-size: 1rem;
   font-weight: 900;
+  cursor: pointer;
 }
 
 .see-the-winner {
   color: #ffa500;
   font-size: 1rem;
   font-weight: 900;
+  cursor: pointer;
 }
 
 .tell-me-more-cta{
   color: #ff0000;
   font-size: 1rem;
   font-weight: 900;
+  cursor: pointer;
 }
 
 .become-expert-cta{
   color: #02615b;
   font-size: 1rem;
   font-weight: 900;
+  cursor: pointer;
 }
 
 /* Mobile Device */
