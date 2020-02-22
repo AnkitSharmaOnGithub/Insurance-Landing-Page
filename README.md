@@ -2,4 +2,4 @@
 Insurance Landing Page
 
 ### Live Demo :-
-https://github.com/AnkitSharmaOnGithub/Insurance-Landing-Page.git
+https://ankitsharmaongithub.github.io/Insurance-Landing-Page/
