@@ -103,6 +103,12 @@ body {
   color: #fff;
   padding: 0.8rem 1.6rem;
   display: inline-block;
+  cursor: pointer;
+}
+
+.cta-get-price{
+  border : 2px solid rgb(16, 139, 143);
+  cursor: pointer;
 }
 
 .get-covered {
@@ -154,6 +160,7 @@ body {
 .get-covered__cta {
   color: rgb(16, 139, 143);
   font-weight: 900;
+  cursor: pointer;
 }
 
 .help {
