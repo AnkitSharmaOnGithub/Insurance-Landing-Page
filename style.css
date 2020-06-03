@@ -465,6 +465,22 @@ help__graphics,
     grid-template-columns: unset;
     padding: 2rem;
   }
+
+  .usp{
+    padding: 2rem;
+  }
+
+  .usp__highlight__section,.how_it_works__highlight__section,.choose-action{
+    flex-direction: column;
+  }
+
+  .choose-action{
+    padding: 0;
+  }
+
+  .choose-action > div:nth-child(1n + 1){
+    margin: 0;
+  }
 }
 
 @media (min-width: 601px) {
